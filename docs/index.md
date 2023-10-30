@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Blog"
-  text: "T_Y的博客"
+  name: "T_Y`blog"
+  text: "T_Y的Blog"
   tagline: My great project tagline
   actions:
     - theme: brand
